@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiruthikar-13.github.io/geo-gsc-test/sitemap.xml
